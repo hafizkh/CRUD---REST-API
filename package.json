@@ -1,0 +1,26 @@
+{
+  "name": "crud---rest-api",
+  "version": "1.0.0",
+  "description": "This is Practice of CRUD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hafizkh/CRUD---REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hafizkh/CRUD---REST-API/issues"
+  },
+  "homepage": "https://github.com/hafizkh/CRUD---REST-API#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  }
+}
