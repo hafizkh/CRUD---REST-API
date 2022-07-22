@@ -1,12 +1,12 @@
 {
+  "type": "module",
   "name": "crud---rest-api",
   "version": "1.0.0",
   "description": "This is Practice of CRUD",
-  "main": "index.js",
-  "type": "module",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon /index.ts"
+    "start": "nodemon /src/index.js"
   },
   "repository": {
     "type": "git",
